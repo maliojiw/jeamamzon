@@ -1,9 +1,9 @@
 import React from "react";
 import Navbar from "./components/P-Navbar";
-import Banner from "./components/P-Banner";
-import Categories from "./components/P-Catetories";
-import Feedback from "./components/P-Feedback";
-import Footer from "./components/P-Footer";
+import Banner from "./components/page1/P-Banner";
+import Categories from "./components/page1/P-Categories";
+import Feedback from "./components/page1/P-Feedback";
+import Footer from "./components/page1/P-Footer";
 export default function App() {
 
   return (
@@ -12,7 +12,7 @@ export default function App() {
       <Banner/>
       <Categories/>
       <Feedback/>
-      <Footer/>
+      <Footer/> 
     </>
     
   );
