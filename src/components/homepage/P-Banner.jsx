@@ -49,7 +49,7 @@ export default function Banner() {
                         <p className="font-medium text-gray-500">
                             Easiest way to <br /> healthy life by buying <br /> your favorite plants
                         </p>
-                        <button className="bg-[#C1DCDC] w-[168px] h-[51px] mt-[29px] rounded-2xl">Hello</button>
+                        <button className="bg-[#C1DCDC] w-[168px] h-[51px] mt-[29px] rounded-2xl font-bold">See more &rarr;</button>
                     </div>
                 </div>
                 <div className="flex gap-[48px]">
