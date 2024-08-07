@@ -1,6 +1,6 @@
 import React from "react";
 import "boxicons";
-export default function Banner() {
+export default function Banner_cp() {
     return (
         <section id="Section-1" className="SectionBanner h-[1792px]">
             <div id="Banner" className="Card w-[1248] h-[512px] bg-[#C1DCDC] m-[96px] rounded-2xl">

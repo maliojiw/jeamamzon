@@ -1,6 +1,6 @@
 import React from "react";
 import 'boxicons'
-export default function Navbar() {
+export default function Navbar_cp() {
 
     return (
 

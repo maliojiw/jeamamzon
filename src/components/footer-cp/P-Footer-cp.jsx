@@ -1,6 +1,6 @@
 import React from "react";
 import 'boxicons'
-export default function Footer() {
+export default function Footer_cp() {
 
     return (
 
