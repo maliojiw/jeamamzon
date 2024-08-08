@@ -1,6 +1,6 @@
 import React from "react";
 import 'boxicons'
-export default function Feedback() {
+export default function Feedback_cp() {
 
     return (
 

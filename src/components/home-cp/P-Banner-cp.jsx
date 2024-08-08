@@ -1,6 +1,6 @@
 import React from "react";
 import "boxicons";
-export default function Banner() {
+export default function Banner_cp() {
     return (
         <section id="Section-1" className="SectionBanner h-[1792px]">
             <div id="Banner" className="Card w-[1248] h-[512px] bg-[#C1DCDC] m-[96px] rounded-2xl">
@@ -49,7 +49,7 @@ export default function Banner() {
                         <p className="font-medium text-gray-500">
                             Easiest way to <br /> healthy life by buying <br /> your favorite plants
                         </p>
-                        <button className="bg-[#C1DCDC] w-[168px] h-[51px] mt-[29px] rounded-2xl">Hello</button>
+                        <button className="bg-[#C1DCDC] w-[168px] h-[51px] mt-[29px] rounded-2xl font-bold">See more &rarr;</button>
                     </div>
                 </div>
                 <div className="flex gap-[48px]">

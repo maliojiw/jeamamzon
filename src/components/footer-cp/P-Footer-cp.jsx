@@ -1,6 +1,6 @@
 import React from "react";
 import 'boxicons'
-export default function Footer() {
+export default function Footer_cp() {
 
     return (
 
@@ -10,7 +10,7 @@ export default function Footer() {
                     <p className="font-semibold text-xl">Jaemazon</p>
                     <div className="mt-[42px] text-gray-500 text-xl">
                         <p>We help you find</p>
-                        <p>your dram plants</p>
+                        <p>your dream plants</p>
                     </div>
                     <div className="mt-[30px] flex gap-[24px]">
                         <div className="bg-[#C1DCDC] border-2 border-gray-500 rounded-full w-[48px] h-[48px] flex justify-center items-center">
