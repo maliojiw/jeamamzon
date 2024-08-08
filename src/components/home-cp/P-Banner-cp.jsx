@@ -1,6 +1,6 @@
 import React from "react";
 import "boxicons";
-export default function Banner() {
+export default function Banner_cp() {
     return (
         <section id="Section-1" className="SectionBanner h-[1792px]">
             <div id="Banner" className="Card w-[1248] h-[512px] bg-[#C1DCDC] m-[96px] rounded-2xl">
@@ -21,21 +21,12 @@ export default function Banner() {
                 </div>
                 <div class="relative ml-[48px] mt-[55px] w-[448px]">
                     <input
-                        class="h-[65px] w-[448px] rounded-2xl pl-[50px] font-semibold text-gray-500"
+                        class="h-[65px] w-[448px] rounded-2xl pl-[50px] font-semibold text-gray-500 bg-white"
                     />
                     <box-icon
                         name='search-alt'
                         class="absolute top-[50%] transform -translate-y-1/2 left-[400px]"
                     ></box-icon>
-                </div>
-                <div className="flex justify-end absolute right-[230.5px] bottom-[-64.5px]">
-                    <div className="w-[305px] h-[300px] bg-black rounded-full"></div>
-                </div>
-                <div className="flex justify-end absolute right-[230.5px] bottom-[-64.5px]">
-                    <div className="w-[235px] h-[100px] bg-black rounded-3xl"></div>
-                </div>
-                <div className="flex justify-end absolute right-[230.5px] bottom-[-64.5px]">
-                    <div className="w-[130px] h-[205px] bg-black rounded-3xl"></div>
                 </div>
             </div>
 
@@ -49,7 +40,7 @@ export default function Banner() {
                         <p className="font-medium text-gray-500">
                             Easiest way to <br /> healthy life by buying <br /> your favorite plants
                         </p>
-                        <button className="bg-[#C1DCDC] w-[168px] h-[51px] mt-[29px] rounded-2xl">Hello</button>
+                        <button className="bg-[#C1DCDC] w-[168px] h-[51px] mt-[29px] rounded-2xl font-bold">See more &rarr;</button>
                     </div>
                 </div>
                 <div className="flex gap-[48px]">
