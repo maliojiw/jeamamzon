@@ -43,7 +43,7 @@ export default function Login_cp() {
                     </div>
                     <div className="text-center">
                         <span className="text-sm text-black">not a member?</span>
-                        <a href="#" className="text-sm text-blue-600 hover:underline">
+                        <a href="http://localhost:5173/register" className="text-sm text-blue-600 hover:underline">
                             sign up
                         </a>
                     </div>
