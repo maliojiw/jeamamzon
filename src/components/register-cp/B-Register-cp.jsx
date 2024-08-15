@@ -122,7 +122,7 @@ export default function Register_cp() {
                     </div>
                     <div className="text-center">
                         <span className="text-sm text-black">already have an account?</span>
-                        <a href="#" className="text-sm text-blue-600 hover:underline">
+                        <a href="http://localhost:5173/login" className="text-sm text-blue-600 hover:underline">
                             sign in
                         </a>
                     </div>
