@@ -8,6 +8,7 @@ export default function App() {
   // beware of hardcode to a pixel it hard to do responsive 
   // the content should inharit with parent stlye 
   // do a mobile first concept tailwind css
+  // why every div have id attribute 
   return (
     <BrowserRouter>
         <Router/>
