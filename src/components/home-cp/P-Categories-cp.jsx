@@ -4,9 +4,9 @@ export default function Categories_cp() {
 
     return (
 
-        <div id="CategoriesSection" className="h-[1024px] flex flex-col items-center relative">
-            <div className="w-[262px] h-[87px] flex flex-col items-center justify-center justify-between text-center">
-                <p className="font-bold text-2xl">Categories</p>
+        <div id="CategoriesSection" className="h-[1024px] flex flex-col items-center relative"> {/*container should be main parent */}
+            <div className="w-[262px] h-[87px] flex flex-col items-center justify-center justify-between text-center"> {/*other div should be inharit with parent dont hard code px !!!!!!!!! */}
+                <p className="font-bold text-2xl">Categories</p>{/*pick one justify-center or justify-between*/}
                 <p>find what are you looking for</p>
             </div>
 
